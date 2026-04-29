@@ -1,8 +1,8 @@
-#Data-Driven Sales Analysis: Coffee Business Case Study
-________________________________________
+# Data-Driven Sales Analysis: Coffee Business Case Study
 
 
-Executive Summery
+
+## Executive Summery
 
 This report presents a comprehensive analysis of coffee sales data spanning approximately three years across three markets: the United States, Ireland, and the United Kingdom. 
 
@@ -10,9 +10,9 @@ The analysis covers 1,000 orders across four coffee types (Arabica, Excelsa, Lib
  
  Total revenue over the period amounts to $45,134, providing valuable insights into sales performance, customer behavior, and market distribution.
 
-________________________________________
 
-Tools & Skills Used
+
+## Tools & Skills Used
 
 •	Data Cleaning (Removing Duplicates, Ensuring there are no duplicates or missing values)
 
@@ -23,8 +23,8 @@ Tools & Skills Used
 •	Pivot Tables
 
 •	Data Formatting (Sales & Date Formatting)
-________________________________________
-Key Features
+
+## Key Features
 
 •	Cleaned and structured raw coffee orders data
 
@@ -37,8 +37,8 @@ Key Features
 •	Built dynamic Pivot Tables for sales analysis 
 
 •	Created an interactive dashboard with slicers and timeline filters 
-________________________________________
-Business Problems Identified:
+
+## Business Problems Identified:
 1. Market Concentration Risk
    
 The United States generates $35,639 (79%) of total revenue, while Ireland ($6,697) and the United Kingdom ($2,799) contribute significantly less.
@@ -59,14 +59,14 @@ Despite this, there is no clear strategy focusing on promoting the top-performin
    
 Customers without a loyalty card generate more revenue ($24,216) than loyalty members ($20,918).
 This suggests the loyalty program is not delivering its intended value.
-________________________________________
-Dashboard Preview
+
+## Dashboard Preview
  <img width="975" height="458" alt="image" src="https://github.com/user-attachments/assets/8800b4da-707d-45ef-94e9-397b37e39180" />
 
 
 
 
-Dashboard Overview
+## Dashboard Overview
 
 This interactive dashboard provides a comprehensive analysis of coffee sales performance across different dimensions.
 
@@ -83,8 +83,8 @@ Highlights total sales distribution across countries (e.g., United States, Irela
 •	Top 5 Consumers
 
 Displays the top customers based on total sales, sorted for clear comparison
-________________________________________
-Interactivity Features:
+
+## Interactivity Features:
 
 •	Slicers:
 
@@ -100,8 +100,8 @@ o	Allows dynamic filtering of sales data over specific time periods
 
 •	All slicers and timeline are fully connected to Pivot Tables, enabling real-time interactive analysis
 
-________________________________________
-Recommendations
+
+## Recommendations
 
 •	Reduce market dependency by expanding efforts in Ireland and the UK 
 
